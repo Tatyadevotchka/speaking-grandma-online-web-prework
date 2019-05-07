@@ -1,5 +1,6 @@
 def (speak_to_grandma)(phrase)
-  if phase == ""
+  if phase == "I LOVE YOU, GRANDMA"
+    return 
 def speak_to_grandma(speak)
   if speak == speak.upcase
     return "NO, NOT SINCE 1938!"
